@@ -1,3 +1,10 @@
 body {
-    background-color: aqua;
+    background-color: lightgrey;
+}
+
+p {
+    color: grey
+}
+img{
+    height: 100px;
 }
