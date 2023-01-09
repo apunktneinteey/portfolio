@@ -13,6 +13,5 @@ if (userage > 17) { //conditional
 } else if (userage === 40) {
     alert("hey, you have the same age as me")
 } else {
-
     alert("yourtooyoung")
 }
