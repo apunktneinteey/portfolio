@@ -1,5 +1,5 @@
 # portfolio
-
+first steps in html, css and javascript
 ## history
 1.  pwd
 2.  ls
